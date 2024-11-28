@@ -31,11 +31,10 @@
 
 
 <div>
-    <a href="https://blog.tyxtang.com:666/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=TyxTang&label=Views&color=blue&style=flat" alt="访问量统计" />&emsp;
     <img src="https://raster.shields.io/badge/%E5%BD%B1%E6%B5%94-TyxTang-brightgreen.svg" />&emsp;
+    <a href="https://blog.tyxtang.com:666/"><img src="https://img.shields.io/badge/Website-博客-yellow" /></a>&emsp;
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=$.public_repos&url=https://api.github.com/users/TyxTang" />&emsp;
 </div>
-
 
 
 <img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TyxTang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,4dfcff&theme=graywhite" />
